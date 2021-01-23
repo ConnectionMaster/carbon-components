@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
-<path id="qr-code_1_" d="M14,14.36H4c-0.199,0-0.36-0.161-0.36-0.36V4c0-0.199,0.161-0.36,0.36-0.36h10
-	c0.199,0,0.36,0.161,0.36,0.36v10C14.36,14.199,14.199,14.36,14,14.36z M4.36,13.64h9.28V4.36H4.36V13.64z M11,7H7v4h4V7z M14,28.36
-	H4c-0.199,0-0.36-0.161-0.36-0.36V18c0-0.199,0.161-0.36,0.36-0.36h10c0.199,0,0.36,0.161,0.36,0.36v10
-	C14.36,28.199,14.199,28.36,14,28.36z M4.36,27.64h9.28v-9.28H4.36V27.64z M11,21H7v4h4V21z M26,26h-2v2h2V26z M28,18h-2v2h2V18z
-	 M28,22h-2v4h2V22z M22,18h-4v2h4V18z M20,22h-2v2h2V22z M20,26h-2v2h2V26z M26,20h-4v4h-2v2h4v-4h2V20z M28,14.36H18
-	c-0.199,0-0.36-0.161-0.36-0.36V4c0-0.199,0.161-0.36,0.36-0.36h10c0.199,0,0.36,0.161,0.36,0.36v10
-	C28.36,14.199,28.199,14.36,28,14.36z M18.36,13.64h9.279V4.36H18.36V13.64z M25,7h-4v4h4V7z"/>
-<rect id="_Transparent_Rectangle" style="fill:none;" width="32" height="32"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" x="0" y="0" version="1.1" viewBox="0 0 32 32" xml:space="preserve" style="enable-background:new 0 0 32 32"><path id="qr-code_1_" d="M14,14.36H4c-0.199,0-0.36-0.161-0.36-0.36V4c0-0.199,0.161-0.36,0.36-0.36h10	c0.199,0,0.36,0.161,0.36,0.36v10C14.36,14.199,14.199,14.36,14,14.36z M4.36,13.64h9.28V4.36H4.36V13.64z M11,7H7v4h4V7z M14,28.36	H4c-0.199,0-0.36-0.161-0.36-0.36V18c0-0.199,0.161-0.36,0.36-0.36h10c0.199,0,0.36,0.161,0.36,0.36v10	C14.36,28.199,14.199,28.36,14,28.36z M4.36,27.64h9.28v-9.28H4.36V27.64z M11,21H7v4h4V21z M26,26h-2v2h2V26z M28,18h-2v2h2V18z M28,22h-2v4h2V22z M22,18h-4v2h4V18z M20,22h-2v2h2V22z M20,26h-2v2h2V26z M26,20h-4v4h-2v2h4v-4h2V20z M28,14.36H18	c-0.199,0-0.36-0.161-0.36-0.36V4c0-0.199,0.161-0.36,0.36-0.36h10c0.199,0,0.36,0.161,0.36,0.36v10	C28.36,14.199,28.199,14.36,28,14.36z M18.36,13.64h9.279V4.36H18.36V13.64z M25,7h-4v4h4V7z"/><rect id="_Transparent_Rectangle" width="32" height="32" style="fill:none"/></svg>
