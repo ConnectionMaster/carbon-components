@@ -144,7 +144,7 @@
     "karma-sourcemap-loader": "~0.3.7",
     "karma-spec-reporter": "0.0.32",
     "karma-webpack": "^3.0.0",
-    "lolex": "^3.0.0",
+    "lolex": "^6.0.0",
     "markdown-it": "^8.4.0",
     "minimatch": "^3.0.4",
     "mkdirp": "^0.5.0",
